@@ -18,12 +18,77 @@
     
     <item>
       <title></title>
-      <link>/posts/try-for-this/</link>
+      <link>/posts/web-dev/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/posts/try-for-this/</guid>
-      <description>&lt;p&gt;I dont know what or where it will be stored&lt;/p&gt;</description>
-      <content>&lt;p&gt;I dont know what or where it will be stored&lt;/p&gt;
+      <guid>/posts/web-dev/</guid>
+      <description>&lt;p&gt;Pillar of Web dev&lt;/p&gt;
+&lt;h1 id=&#34;frontend&#34;&gt;Frontend&lt;/h1&gt;
+&lt;p&gt;1st step
+HTML -
+CSS -
+JavaScript -&lt;/p&gt;
+&lt;p&gt;2nd Step
+Portfolio
+Start building project combining 3 languages
+Clone of basic website
+simple projects
+Mdn Doc For new projects - &lt;a href=&#34;https://developer.mozilla.org/en-US/&#34;&gt;https://developer.mozilla.org/en-US/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;before picking JS framework
+Try to start from CSS framework Bootstrap
+Optional Tailwind CSS&lt;/p&gt;
+&lt;p&gt;Question will be logic from JS in interview from good companies&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Like Asynchronous Programming&lt;/strong&gt;
+&lt;strong&gt;JavaScript Promises&lt;/strong&gt;
+&lt;strong&gt;Async Await&lt;/strong&gt;
+&lt;strong&gt;Call Stack&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Learn System command
+Git and Github (compulsory)&lt;/p&gt;</description>
+      <content>&lt;p&gt;Pillar of Web dev&lt;/p&gt;
+&lt;h1 id=&#34;frontend&#34;&gt;Frontend&lt;/h1&gt;
+&lt;p&gt;1st step
+HTML -
+CSS -
+JavaScript -&lt;/p&gt;
+&lt;p&gt;2nd Step
+Portfolio
+Start building project combining 3 languages
+Clone of basic website
+simple projects
+Mdn Doc For new projects - &lt;a href=&#34;https://developer.mozilla.org/en-US/&#34;&gt;https://developer.mozilla.org/en-US/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;before picking JS framework
+Try to start from CSS framework Bootstrap
+Optional Tailwind CSS&lt;/p&gt;
+&lt;p&gt;Question will be logic from JS in interview from good companies&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Like Asynchronous Programming&lt;/strong&gt;
+&lt;strong&gt;JavaScript Promises&lt;/strong&gt;
+&lt;strong&gt;Async Await&lt;/strong&gt;
+&lt;strong&gt;Call Stack&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Learn System command
+Git and Github (compulsory)&lt;/p&gt;
+&lt;h1 id=&#34;backend&#34;&gt;Backend&lt;/h1&gt;
+&lt;p&gt;(stack in bracket)
+&lt;strong&gt;JS - Node JS ( Mern )&lt;/strong&gt;
+Python - django , faslk
+Java , PHP( LAMP)
+.NET&lt;/p&gt;
+&lt;p&gt;API - How does it work?
+Request and Response Cycle
+How do we build MVC architecture
+Templating
+Connect backend With Database
+Error handling exception Handling&lt;/p&gt;
+&lt;h1 id=&#34;database&#34;&gt;Database&lt;/h1&gt;
+&lt;p&gt;Learn with back end
+Learn both
+SQL (MySQL)
+and
+NoSQL (mangoDB)&lt;/p&gt;
+&lt;p&gt;Last step
+Deployment
+like Vercel&lt;/p&gt;
+&lt;p&gt;AWS and Azure&lt;/p&gt;
+&lt;p&gt;Full Stack Project and Deployment&lt;/p&gt;
 </content>
     </item>
     
