@@ -12,8 +12,9 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/posts/staring-blog/</guid>
-      <description></description>
-      <content></content>
+      <description>&lt;p&gt;Today Sudarshan forget his password so we wrote an email for help in APU help desk&lt;/p&gt;</description>
+      <content>&lt;p&gt;Today Sudarshan forget his password so we wrote an email for help in APU help desk&lt;/p&gt;
+</content>
     </item>
     
     <item>
@@ -22,8 +23,8 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/posts/web-dev/</guid>
-      <description>&lt;p&gt;Pillar of Web dev&lt;/p&gt;
-&lt;h1 id=&#34;frontend&#34;&gt;Frontend&lt;/h1&gt;
+      <description>&lt;h1 id=&#34;pillar-of-web-dev&#34;&gt;Pillar of Web dev&lt;/h1&gt;
+&lt;h2 id=&#34;frontend&#34;&gt;Frontend&lt;/h2&gt;
 &lt;p&gt;1st step
 HTML -
 CSS -
@@ -44,8 +45,8 @@ Optional Tailwind CSS&lt;/p&gt;
 &lt;strong&gt;Call Stack&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Learn System command
 Git and Github (compulsory)&lt;/p&gt;</description>
-      <content>&lt;p&gt;Pillar of Web dev&lt;/p&gt;
-&lt;h1 id=&#34;frontend&#34;&gt;Frontend&lt;/h1&gt;
+      <content>&lt;h1 id=&#34;pillar-of-web-dev&#34;&gt;Pillar of Web dev&lt;/h1&gt;
+&lt;h2 id=&#34;frontend&#34;&gt;Frontend&lt;/h2&gt;
 &lt;p&gt;1st step
 HTML -
 CSS -
@@ -66,7 +67,7 @@ Optional Tailwind CSS&lt;/p&gt;
 &lt;strong&gt;Call Stack&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Learn System command
 Git and Github (compulsory)&lt;/p&gt;
-&lt;h1 id=&#34;backend&#34;&gt;Backend&lt;/h1&gt;
+&lt;h2 id=&#34;backend&#34;&gt;Backend&lt;/h2&gt;
 &lt;p&gt;(stack in bracket)
 &lt;strong&gt;JS - Node JS ( Mern )&lt;/strong&gt;
 Python - django , faslk
@@ -78,7 +79,7 @@ How do we build MVC architecture
 Templating
 Connect backend With Database
 Error handling exception Handling&lt;/p&gt;
-&lt;h1 id=&#34;database&#34;&gt;Database&lt;/h1&gt;
+&lt;h2 id=&#34;database&#34;&gt;Database&lt;/h2&gt;
 &lt;p&gt;Learn with back end
 Learn both
 SQL (MySQL)

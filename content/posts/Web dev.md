@@ -1,5 +1,5 @@
-Pillar of Web dev
-# Frontend
+# Pillar of Web dev
+## Frontend
 1st step
 HTML - 
 CSS - 
@@ -25,7 +25,7 @@ Question will be logic from JS in interview from good companies
 
 Learn System command 
 Git and Github (compulsory)
-# Backend
+## Backend
 (stack in bracket)
 **JS - Node JS ( Mern )**
 Python - django , faslk
@@ -38,7 +38,7 @@ How do we build MVC architecture
 Templating
 Connect backend With Database
 Error handling exception Handling
-# Database
+## Database
 
 Learn with back end
 Learn both
