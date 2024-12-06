@@ -14,10 +14,12 @@
       <guid>/posts/staring-blog/</guid>
       <description>&lt;p&gt;Today will be writing abt AI and Machine learning&lt;/p&gt;
 &lt;p&gt;Todays topic  Gradient descent&lt;/p&gt;
-&lt;p&gt;How does the machine learn&lt;/p&gt;</description>
+&lt;p&gt;How does the machine learn&lt;/p&gt;
+&lt;p&gt;proposal Discussed&lt;/p&gt;</description>
       <content>&lt;p&gt;Today will be writing abt AI and Machine learning&lt;/p&gt;
 &lt;p&gt;Todays topic  Gradient descent&lt;/p&gt;
 &lt;p&gt;How does the machine learn&lt;/p&gt;
+&lt;p&gt;proposal Discussed&lt;/p&gt;
 </content>
     </item>
     
@@ -37,6 +39,7 @@ Operational Security (OPSEC) is a set of principals and tactics used to attempt 
 &lt;p&gt;The &lt;code&gt;file&lt;/code&gt; command in Unix/Linux is used to determine the type of a file. It analyzes the file&amp;rsquo;s content and provides information about its format, such as whether it&amp;rsquo;s a text file, binary, or executable. This can be useful in cybersecurity for identifying suspicious files.&lt;/p&gt;
 &lt;p&gt;exiftool command is ExifTool is a command-line application for reading, writing, and editing metadata in various file formats.
 To use ExifTool, you can run commands like &lt;code&gt;exiftool filename&lt;/code&gt; to view metadata or &lt;code&gt;exiftool -tag=value filename&lt;/code&gt; to edit metadata.&lt;/p&gt;
+&lt;p&gt;Day 2&lt;/p&gt;
 </content>
     </item>
     

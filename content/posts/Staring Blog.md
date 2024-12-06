@@ -4,3 +4,5 @@ Todays topic  Gradient descent
 
 How does the machine learn
 
+proposal Discussed 
+

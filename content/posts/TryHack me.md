@@ -6,3 +6,6 @@ The `file` command in Unix/Linux is used to determine the type of a file. It a
 
 exiftool command is ExifTool is a command-line application for reading, writing, and editing metadata in various file formats. 
 To use ExifTool, you can run commands like `exiftool filename` to view metadata or `exiftool -tag=value filename` to edit metadata.
+
+Day 2 
+
