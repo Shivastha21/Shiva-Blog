@@ -15,11 +15,15 @@
       <description>&lt;p&gt;Today will be writing abt AI and Machine learning&lt;/p&gt;
 &lt;p&gt;Todays topic  Gradient descent&lt;/p&gt;
 &lt;p&gt;How does the machine learn&lt;/p&gt;
-&lt;p&gt;proposal Discussed&lt;/p&gt;</description>
+&lt;p&gt;proposal Discussed&lt;/p&gt;
+&lt;p&gt;Hello i am fine
+here it is&lt;/p&gt;</description>
       <content>&lt;p&gt;Today will be writing abt AI and Machine learning&lt;/p&gt;
 &lt;p&gt;Todays topic  Gradient descent&lt;/p&gt;
 &lt;p&gt;How does the machine learn&lt;/p&gt;
 &lt;p&gt;proposal Discussed&lt;/p&gt;
+&lt;p&gt;Hello i am fine
+here it is&lt;/p&gt;
 </content>
     </item>
     
@@ -40,6 +44,8 @@ Operational Security (OPSEC) is a set of principals and tactics used to attempt 
 &lt;p&gt;exiftool command is ExifTool is a command-line application for reading, writing, and editing metadata in various file formats.
 To use ExifTool, you can run commands like &lt;code&gt;exiftool filename&lt;/code&gt; to view metadata or &lt;code&gt;exiftool -tag=value filename&lt;/code&gt; to edit metadata.&lt;/p&gt;
 &lt;p&gt;Day 2&lt;/p&gt;
+&lt;p&gt;Day 3
+ELK stands for Elasticsearch, Logstash, and Kibana. These are three open-source tools that are commonly used together to collect, store, analyse, and visualise data.&lt;/p&gt;
 </content>
     </item>
     
