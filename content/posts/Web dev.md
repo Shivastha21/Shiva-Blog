@@ -50,7 +50,7 @@ Last step
 Deployment
 like Vercel
 
-AWS and Azure 
+AWS and Azure
 
 Full Stack Project and Deployment
 

@@ -9,5 +9,8 @@ To use ExifTool, you can run commands like `exiftool filename` to view metadat
 
 Day 2 
 
+
 Day 3
 ELK stands for Elasticsearch, Logstash, and Kibana. These are three open-source tools that are commonly used together to collect, store, analyse, and visualise data.
+
+Day 4 Added a new File in Try hack me and created the 
